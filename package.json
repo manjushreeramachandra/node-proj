@@ -1,0 +1,24 @@
+{
+  "name": "node_proj",
+  "version": "12.18.3",
+  "description": "dynamic file reading",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjushreeramachandra/node-proj.git"
+  },
+  "author": "Manjushree Ramachandrappa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjushreeramachandra/node-proj/issues"
+  },
+  "homepage": "https://github.com/manjushreeramachandra/node-proj#readme"
+}
